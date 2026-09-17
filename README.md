@@ -65,7 +65,7 @@ score groups fall back to uniform weights.
 ## Installation
 
 Python 3.10+ and recent CUDA GPUs are required. The reported full-parameter
-experiments use two high-memory GPUs and DeepSpeed ZeRO-3 without CPU offload.
+experiments use two RTX 6000 Pro and DeepSpeed ZeRO-3 without CPU offload.
 
 ```bash
 git clone https://github.com/shuaijiang/Ke-Omni-R.git
