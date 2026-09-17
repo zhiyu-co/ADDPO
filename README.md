@@ -250,21 +250,7 @@ This code builds on [Ke-Omni-R](https://github.com/shuaijiang/Ke-Omni-R),
 [R1-AQA](https://github.com/xiaomi-research/r1-aqa). We thank the authors of
 AVQA, MusicBench, MMSU, MMAU, MMAR, and ADQA-Bench.
 
-## Citation
 
-The manuscript is currently under review and has not been posted as a public
-preprint. Until a public paper record is available, please cite this software
-release:
-
-```bibtex
-@misc{zeng2026ad2po,
-  title     = {Credit Where Audio Matters: Audio-Dependent Credit Assignment for Audio Reasoning},
-  author    = {Zeng, Chu and Fan, Pingyi and Zhang, Wei-Qiang},
-  year      = {2026},
-  howpublished = {GitHub repository},
-  url       = {https://github.com/shuaijiang/Ke-Omni-R}
-}
-```
 
 ## License
 
